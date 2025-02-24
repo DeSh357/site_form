@@ -90,4 +90,5 @@ window.onload = function () {
         }
     }
     console.log("Hi from second develop");
+    console.log("Hi from maindevelop")
 }
